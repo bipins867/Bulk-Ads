@@ -1,0 +1,10 @@
+# Ignore for backend (Node.js)
+backend/node_modules/
+backend/.env
+
+
+
+# Ignore for frontend (React.js)
+frontend/node_modules/
+frontend/.env
+frontend/.env.production
